@@ -4,21 +4,21 @@ Banana pancakes : bananas, 2 eggs, 65 gr all-purpose flour
 
 Oat pancakes : 110 gr oat flour, 1/2 banana, 1 egg, 110 gr cream cheese, 1 tbsp baking powder
 
-Sweet potato muffins : 450 gr sweet potato puree, 3 eggs, 2 tbsp baking powder, 2 tbsp cinnamon, 330 gr all-purpose flour, 56 gr melted butter / 180 celsius for approx. 20'
+Sweet potato muffins : 450 gr sweet potato puree, 3 eggs, 2 tbsp baking powder, 2 tbsp cinnamon, 330 gr all-purpose flour, 56 gr melted butter / 180 C for approx. 20'
 
 Blueberry waffles : 220 gr oat flour, 1 banana, 100 gr blueberries, 110 ml milk
 
-Raspberry muffins : 140 gr all-purpose flour, 1 tbsp baking powder, 200 ml milk, 1 egg, 150 gr raspberries / 180 celsius for approx. 20'
+Raspberry muffins : 140 gr all-purpose flour, 1 tbsp baking powder, 200 ml milk, 1 egg, 150 gr raspberries / 180 C for approx. 20'
 
 Plain waffles : 56 gr butter, 180 ml yogurt, 180 ml milk, 4 eggs, 1 tbsp vanilla extract, 360 gr all-purpose flour, 1 tbsp baking powder, 1 tbsp cinnamon
 
-Banana muffins : banana, 1 egg, 80 gr yogurt, 100 gr all-purpose flour, 1 tbsp baking powder / 180 celsius for approx. 20'
+Banana muffins : banana, 1 egg, 80 gr yogurt, 100 gr all-purpose flour, 1 tbsp baking powder / 180 C for approx. 20'
 
 Yogurt pancakes : 80 gr all-purpose flour, 2 eggs, 200 gr yogurt, 1 tbsp vanilla extract, 1 tbsp cinnamon
 
 Beetroot pancakes : 1 beetroot, 100 ml milk, 65 gr oat flour, 1 egg, 1/2 tbsp baking powder
 
-Egg muffins : 1 tomato 1 carrot 1 zucchini cooked and grated, 125 gr grated mozzarella, 3 eggs / 180 celsius for approx. 20'
+Egg muffins : 1 tomato 1 carrot 1 zucchini cooked and grated, 125 gr grated mozzarella, 3 eggs / 180 C for approx. 20'
 
 Blueberry pancakes : 160 gr all-purpose flour, 240 gr yogurt, 1 egg, 1 tbsp baking powder, 100 ml milk, 100 gr blueberries
 
@@ -26,5 +26,9 @@ Strawberry pancakes : 60 gr strawberries, 60 gr yogurt, 60 gr oat flour, 1 egg, 
 
 Carrot pancakes : 100 gr grated carrot, 100 ml milk, 60 gr oat flour, 1 egg, 1 tbsp baking powder, 1 tbsp cinnamon
 
-Veggie patties : 200 gr carrot zucchini and broccoli cooked and grated, 125 gr grated mozzarella, 2 eggs, 1 tbsp olive oil, 50 gr bread crumbs / 180 celsius for approx. 20'
+Veggie patties : 200 gr carrot zucchini and broccoli cooked and grated, 125 gr grated mozzarella, 2 eggs, 1 tbsp olive oil, 50 gr bread crumbs / 180 C for approx. 20'
+
+Bagel : 120 gr yogurt, 150 gr all-purpose flour, 1 tbsp baking powder, 10 ml extra virgin olive oil / 180 C for approx. 25'
+
+Carrot waffles : 60 gr all-purpose flour, 2 eggs, 100 gr grated carrot, 1 tbsp baking powder, 1 tbsp cinnamon
 
