@@ -21,7 +21,7 @@ def main():
     matching_recipes = find_recipes_with_ingredient(recipes, ingredient)
     
     if matching_recipes:
-        print("\nRecipes containing '{}':".format(ingredient))
+        print("\nRecipes containing '{}':\n".format(ingredient))
         for recipe in matching_recipes:
             print(recipe)
             print()  # Print a newline for better readability
